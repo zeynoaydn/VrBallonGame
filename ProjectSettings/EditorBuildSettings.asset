@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/balllllooooonnnn/MENU.unity
+    guid: d5eae180469ea82418f5c43c70fc1cb9
+  - enabled: 1
+    path: Assets/balllllooooonnnn/Balon.unity
+    guid: cf911e049bfed3a49bc0e7562c2209a5
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 53c3dcd5fafe01f4bbca4f7c068ed5c4, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9010168c80a716140801791483507efa, type: 2}

@@ -10,7 +10,7 @@ Bu proje, Unity ve C# programlama dili kullanılarak geliştirilmiş bir VR balo
 - VR cihazı (Örneğin Meta Quest3)
 
 ## Oyun Çalıştırma
--Ctrl+Shift+b build and run etmeniz gerekiyor.
+- Ctrl+Shift+b build and run etmeniz gerekiyor.
 
 ## Oyun Kontrolleri
 

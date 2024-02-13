@@ -17,3 +17,8 @@ Bu proje, Unity ve C# programlama dili kullanılarak geliştirilmiş bir VR balo
 - VR cihazınızın kontrollerini kullanarak ellerinizi hareket ettirin.
 - Balonları patlatmak için ellerinizi kullanın (A,X butonlarına basınız)
 
+## Görsel
+
+<div align="center">
+  <img src="https://github.com/zeynoaydn/VrBallonGame/blob/main/gamem.mp4" width="auto">
+</div>

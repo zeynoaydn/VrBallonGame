@@ -20,5 +20,5 @@ Bu proje, Unity ve C# programlama dili kullanılarak geliştirilmiş bir VR balo
 ## Görsel
 
 <div align="center">
- <img src="https://github.com/zeynoaydn/VrBalloonGame/blob/main/video.mp4" width="auto">
+ <img src="https://github.com/zeynoaydn/VrBalloonGame/issues/1" width="auto">
 </div>
